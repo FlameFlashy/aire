@@ -157,13 +157,13 @@ http://localhost:18000
 ## 📸 Screenshots
 
 k9s:
-[k9s.png]
+{k9s.png}
 
 Logs:
-[logs.png]
+{logs.png}
 
 UI:
-[kagent.png]
+{kagent.png}
 
 ---
 
