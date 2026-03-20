@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kagent-llm-settings
+  namespace: kagent
+data:
+  MODEL_NAME: "gpt-4o-mini"
+  AGENTGATEWAY_BASE_URL: "http://agentgateway-proxy.agentgateway-system.svc.cluster.local/v1"
